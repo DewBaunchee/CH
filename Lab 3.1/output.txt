@@ -1,0 +1,154 @@
+Device #1
+bus 0, device 0, func 0: vendor=0x12378086
+
+VenID = 0x00008086
+DevID = 0x00001237
+vendor: Intel Corporation
+device: 440FX - 82441FX PMC [Natoma]
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #2
+bus 0, device 1, func 0: vendor=0x70008086
+
+VenID = 0x00008086
+DevID = 0x00007000
+vendor: Intel Corporation
+device: 82371SB PIIX3 ISA [Natoma/Triton II]
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #3
+bus 0, device 1, func 1: vendor=0x71118086
+
+VenID = 0x00008086
+DevID = 0x00007111
+vendor: Intel Corporation
+device: 82371AB/EB/MB PIIX4 IDE
+class code: not found
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #4
+bus 0, device 2, func 0: vendor=0x040515ad
+
+VenID = 0x000015ad
+DevID = 0x00000405
+vendor: VMware
+device: SVGA II Adapter
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #5
+bus 0, device 3, func 0: vendor=0x100e8086
+
+VenID = 0x00008086
+DevID = 0x0000100e
+vendor: Intel Corporation
+device: 82540EM Gigabit Ethernet Controller
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #6
+bus 0, device 4, func 0: vendor=0xcafe80ee
+
+VenID = 0x000080ee
+DevID = 0x0000cafe
+vendor: InnoTek Systemberatung GmbH
+device: VirtualBox Guest Service
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #7
+bus 0, device 5, func 0: vendor=0x24158086
+
+VenID = 0x00008086
+DevID = 0x00002415
+vendor: Intel Corporation
+device: 82801AA AC'97 Audio Controller
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #8
+bus 0, device 6, func 0: vendor=0x003f106b
+
+VenID = 0x0000106b
+DevID = 0x0000003f
+vendor: Apple Inc.
+device: KeyLargo/Intrepid USB
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #9
+bus 0, device 7, func 0: vendor=0x71138086
+
+VenID = 0x00008086
+DevID = 0x00007113
+vendor: Intel Corporation
+device: 82371AB/EB/MB PIIX4 ACPI
+class code: 
+	base class: Pre-2.0 PCI Specification Device 
+	subclass: Non-VGA 
+	interface: 
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+
+Device #10
+bus 0, device 13, func 0: vendor=0x28298086
+
+VenID = 0x00008086
+DevID = 0x00002829
+vendor: Intel Corporation
+device: 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]
+class code: not found
+base IO: 0x00000000
+interrupt pin: not used (0x00000000)
+
+
+

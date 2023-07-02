@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605524757 source:/root/AOKT/lab/main.c
+	<stdio.h>
+	<sys/io.h>
+	<unistd.h>
+	"pci.h"
+
+1605384408 /root/AOKT/lab/pci.h
+

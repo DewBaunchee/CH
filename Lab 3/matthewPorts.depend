@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605386981 source:/root/AOKT/matthewPorts/main.c
+	<stdio.h>
+	<sys/io.h>
+	<unistd.h>
+	"pci.h"
+
+1605384408 /root/AOKT/matthewPorts/pci.h
+

@@ -1,0 +1,144 @@
+bus 0, device 0, func 0: vendor=0x12378086
+
+VendorID = 0x00008086
+DeviceID = 0x00001237
+
+Vendor: Intel Corporation
+Device: 440FX - 82441FX PMC [Natoma]
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 1, func 0: vendor=0x70008086
+
+VendorID = 0x00008086
+DeviceID = 0x00007000
+
+Vendor: Intel Corporation
+Device: 82371SB PIIX3 ISA [Natoma/Triton II]
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 1, func 1: vendor=0x71118086
+
+VendorID = 0x00008086
+DeviceID = 0x00007111
+
+Vendor: Intel Corporation
+Device: 82371AB/EB/MB PIIX4 IDE
++----------------------------------------------+
+Class code: [NOT FOUND]
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 2, func 0: vendor=0x040515ad
+
+VendorID = 0x000015ad
+DeviceID = 0x00000405
+
+Vendor: VMware
+Device: SVGA II Adapter
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 3, func 0: vendor=0x100e8086
+
+VendorID = 0x00008086
+DeviceID = 0x0000100e
+
+Vendor: Intel Corporation
+Device: 82540EM Gigabit Ethernet Controller
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 4, func 0: vendor=0xcafe80ee
+
+VendorID = 0x000080ee
+DeviceID = 0x0000cafe
+
+Vendor: InnoTek Systemberatung GmbH
+Device: VirtualBox Guest Service
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 5, func 0: vendor=0x24158086
+
+VendorID = 0x00008086
+DeviceID = 0x00002415
+
+Vendor: Intel Corporation
+Device: 82801AA AC'97 Audio Controller
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 6, func 0: vendor=0x003f106b
+
+VendorID = 0x0000106b
+DeviceID = 0x0000003f
+
+Vendor: Apple Inc.
+Device: KeyLargo/Intrepid USB
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 7, func 0: vendor=0x71138086
+
+VendorID = 0x00008086
+DeviceID = 0x00007113
+
+Vendor: Intel Corporation
+Device: 82371AB/EB/MB PIIX4 ACPI
++----------------------------------------------+
+Class code: 
+	Base class: Pre-2.0 PCI Specification Device 
+	Subclass: Non-VGA 
+	Interface: 
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
+bus 0, device 13, func 0: vendor=0x28298086
+
+VendorID = 0x00008086
+DeviceID = 0x00002829
+
+Vendor: Intel Corporation
+Device: 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]
++----------------------------------------------+
+Class code: [NOT FOUND]
++----------------------------------------------+
+Interrupt pin: Not used (0x00000000)
+===================================================================
